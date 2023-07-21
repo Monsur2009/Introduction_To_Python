@@ -1,2 +1,2 @@
-print (SHEBA Computer)
-Print (SYLHET)
+print ("SHEBA Computer")
+Print ("SYLHET")
